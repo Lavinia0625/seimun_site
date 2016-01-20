@@ -1,0 +1,43 @@
+
+/* 首页CSS */
+.bg { position: fixed; top: 0; left: 0; z-index: -1;}
+.header_wrap { background: #000; height: 90px; min-width: 1200px;}
+.header_wrap h1 { width: 230px; height: 50px; background: url(../../images/logo.gif) 0 0 no-repeat; float: left; margin-top: 20px; overflow: hidden;}
+.header_wrap h1 a { width: 230px; height: 0; padding-top: 50px; display: block; overflow: hidden;}
+.nav { float: right; }
+.nav li { float: left; height: 90px;}
+.nav li a { color: #fff; display: block; height: 90px; line-height: 90px; padding: 0 30px 0 30px; font-size: 24px;}
+.con { width: 1200px; height: 300px; margin: 15% auto 10%;}
+.con p { width: 850px; height: 300px; font-size: 32px; line-height: 60px; text-indent: 2em;}
+.footer_wrap { height: 80px; width: 100%; background: #333; position: fixed; left: 0; bottom: 0;}
+.footer { width: 1200px; height: 80px; margin: 0 auto;}
+.footer .left { float: left; padding-top: 10px;}
+.footer .left li { height: 18px; line-height: 18px; font-size: 14px; color: #aaa;}
+.footer .right { float: right; padding-top: 10px; font-size: 16px; color: #aaa;}
+
+/* 业务范围 */
+.sevice_title .red_line { height: 5px; background: #e83918;}
+.sevice_title .title_wrap { height: 195px; background: url(../../images/tc.gif) 0 0 repeat-x; min-width: 1200px;}
+.sevice_title .title { width: 1200px; height: 195px; margin: 0 auto;}
+.sevice_title span { float: left; height: 195px; line-height: 195px; font-size: 80px; color: #fff;}
+.sevice_title .right { float: right; color: #fff; margin-top: 70px; margin-right: 8%;}
+.service_con { margin: 0 auto; overflow: hidden;}
+.service_con p.title { height: 100px; line-height: 100px; font-size: 30px;}
+.service_con dl {float: left; width: 260px; padding: 0 13px 0 12px; margin-right: 20px;}
+.service_con dt { text-align: center;}
+.service_con dd { line-height: 24px; text-indent: 2em; text-align: justify;}
+.service_con dd h2 { width: 260px; height: 90px; line-height: 90px; text-align: center; font-size: 30px; color: #333; font-weight: normal;}
+
+
+/* 加入我们 */
+.joinUs ul li { margin-bottom: 30px;}
+.joinUs ul li h4 { font-size: 18px; color: #333;} 
+.joinUs ul li h5 { font-size: 16px; color: #666; height: 30px; line-height: 30px;}
+.joinUs ul li p { font-size: 16px; height: 24px; line-height: 24px;}
+.joinUs span { left: 280px; top: 80px; width: 200px; height: 3px; background: #e83918;}
+
+/* 联系我们 */
+.contact_wrap { height: 292px; position: relative;}
+.contact_wrap img { width: 1920px; height: 292px; position: absolute; top: 0; left: 50%; margin-left: -960px;}
+.contact_main { width: 1200px; margin: 0 auto;}
+.contact_main p {font-size: 18px; height: 30px; line-height: 30px;}
