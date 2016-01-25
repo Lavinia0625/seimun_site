@@ -2,7 +2,7 @@
 * @Author: Lavinia
 * @Date:   2016-01-13 16:16:00
 * @Last Modified by:   Lavinia
-* @Last Modified time: 2016-01-21 15:21:43
+* @Last Modified time: 2016-01-25 18:25:46
 */
 
 /* 清除样式 */
@@ -90,6 +90,7 @@ a:hover{ color: #e83918;}
 .w1000 { width: 1000px;}
 .w { width: 100%;}
 .h50 { height: 50px;}
+.h60 { height: 60px;}
 .h80 { height: 80px;}
 .h100 { height: 100px;}
 .h200 { height: 200px;}
@@ -138,6 +139,7 @@ a:hover{ color: #e83918;}
 .pt20 { padding-top: 20px;}
 .pt30 { padding-top: 30px;}
 .pt50 { padding-top: 50px;}
+.pt80 { padding-top: 80px;}
 .pb5 { padding-bottom: 5px;}
 .pb10 { padding-bottom: 10px;}
 .pb15 { padding-bottom: 15px;}
