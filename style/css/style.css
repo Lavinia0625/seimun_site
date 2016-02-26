@@ -14,7 +14,7 @@
 .footer_wrap p{width: 100%; text-align: center; height: 40px; line-height: 40px; font-size: 14px; color: #aaa;}
 
 /* 产品服务 */
-.service_con { width: 60%; padding-top: 150px; overflow: hidden;}
+.service_con { width: 60%; padding-top: 15%; overflow: hidden;}
 .service_con dl { width: 25%; float: left;}
 .service_con dt { text-align: center;}
 .service_con dd { text-align: justify; padding-bottom: 20px;}
